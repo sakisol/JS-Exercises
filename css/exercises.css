@@ -1,0 +1,113 @@
+/*exercise one css*/
+
+.top {
+    border-style: double;
+    width: 100%;
+}
+
+#bottomdiv {
+    
+    min-height: 80vh;
+/*    height: 80vh;*/
+    border-style: double;
+    width: 100%;
+    padding: 0;
+}
+
+#alertbox {
+    color: red;
+}
+
+/*exercise two*/
+
+.heading {
+    border-style: double;
+    width: 100%;
+}
+
+button {
+    border-style: double;
+    width: 100%;
+}
+
+#midsect {
+    height: 80vh;
+
+}
+
+#btn {
+    /*    border-style: double; */
+}
+
+#numbersbox {
+    border-style: double;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    /*  hyphens: auto;*/
+}
+
+.random,
+.odd,
+.even {
+    border-style: double;
+    text-align: center;
+}
+
+#oddnums {
+    border-style: double;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
+#evennums {
+    border-style: double;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    /*  hyphens: auto;*/
+}
+
+#numbersbox p {
+    text-align: center;
+}
+
+
+/*exercise three*/
+
+#picbox {
+    border-style: double;
+    background-attachment: fixed;
+}
+
+/*exercise four*/
+
+#titles {
+     border-style: double;
+}
+
+.mid {
+    padding: 0;
+}
+
+#head,
+#torso,
+#limbs {
+    border-style: double;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
+/*exercise five*/
+
+tr {
+    border-style: solid;
+}
+
+.top {
+   padding: 0; 
+}
+
+#rowbox tr {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+/*    overflow-y: hidden;*/
+}
